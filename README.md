@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ivan, <br>
-### I'm a Full Stack Developer (PERN stack). I also have some knowledge and commercial experience in the development of Flutter mobile applications. <br>
+### I'm a Flutter developer. I also have some knowledge and commercial experience as a full stack developer (PERN stack). <br>
 ### Below you can see examples of my work:
 <!--
 **starchykov/starchykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
