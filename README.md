@@ -1,5 +1,12 @@
 ### Hi there 👋 I'm Ivan, <br>
-### I'm a Flutter developer. I also have some knowledge and commercial experience as a full stack developer (PERN stack). <br>
+I'm a Flutter developer. I also have some knowledge as a full stack developer (PERN stack). <br>
+- 🔭 I’m currently working on the Flutter mobile apps
+- 🌱 I’m currently learning new features
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about coding
+- 📫 How to reach me: www.linkedin.com/in/starchykov
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: a bug can be turned into a feature simply by documenting it 🪲
 ### Below you can see examples of my work:
 <!--
 **starchykov/starchykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
