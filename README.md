@@ -1,4 +1,4 @@
-### Hi there 🖖 I'm Ivan, <br>
+### Hi there 🖖 I'm Ivan <br>
 I'm a Flutter developer. I also have some knowledge as a full stack developer (PERN stack). <br>
 - 🔭 I’m currently working on the Flutter mobile apps
 - 🌱 I’m currently learning new features
