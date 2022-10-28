@@ -7,6 +7,7 @@ I'm a Flutter developer. I also have some knowledge as a full stack developer (P
 - 📫 How to reach me: www.linkedin.com/in/starchykov
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: a bug can be turned into a feature simply by documenting it 🪲
+Dart Flutter NodeJS PostGree MySQL
 ### Below you can see examples of my work:
 <!--
 **starchykov/starchykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
