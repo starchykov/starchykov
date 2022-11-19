@@ -1,5 +1,5 @@
 ### Hi there 🖖 I'm Ivan <br>
-I'm a Flutter developer. I also have some knowledge as a full stack developer (PERN stack). <br>
+Who am I? Well, I'm a mobile developer and I work at my favorite job, where my main task is to write code. I love to explore and learn something new. Here you will find some of my works that you may find entertaining.<br>
 - 🔭 I’m currently working on the Flutter mobile apps
 - 🌱 I’m currently learning new features
 - 👯 I’m looking to collaborate on open source projects
